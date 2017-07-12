@@ -1,3 +1,4 @@
 <?php
-print 'asd'; 
+print 'asd';
+echo 'dsadsadsadsa';
 ?>
